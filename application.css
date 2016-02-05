@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.app-title {
+    margin: 0;
+    text-align: center;
+    padding: 1rem;
+}
+
+.body-description p {
+  text-align: center;
+  padding: 0 1rem 1rem 1rem;
+  margin: 0;
+  color: #666;
+}
+
+.body-content {
+  padding: 2rem;
+}
+
+.app-icon {
+  background-image: url("img/fawg-dawg.svg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 9rem;
+  width: 9rem;
+  margin: 2rem auto 0 auto;
+}
+
+.button {
+  text-decoration: none;
+  text-align: center;
+  border: none;
+  background-color: #5174ba;
+  padding: 0.8rem;
+  border-radius: 50px;
+  display: block;
+  font-size: 1.4rem;
+  color: #fff;
+  margin-top: 3rem;
+}
